@@ -134,14 +134,14 @@ body{
    }
    h2{
     color: azure;
-    font-size: 25px;
+    font-size: 50px;
     text-align: center;
     text-decoration: underline;
     text-decoration-color: darkred;
    }
    h1{
     color: azure;
-    font-size: 78px;
+    font-size: 25px;
     margin-left: 15px;
    }
    #fr{
